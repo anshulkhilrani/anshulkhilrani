@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there! Thank you for visiting 👋
+
+###GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FortMinor18&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FortMinor18&theme=radical&hide_border=true" />
+</p>
+
+<p>I am a Student Developer that has been working in the field of Mobile Application Development using Flutter and Kotlin. For my current resume please visit</p>
+<p><a href=="https://drive.google.com/file/d/1Nh4bz4OZKqd9EhgZStFlq4illIpPK9NA/view?usp=sharing"><img width="25" height="25" src="res/notepad.svg"></a></p>
+
+You can contact me on -
 <p>
   <a href="https://twitter.com/f0rt18"><img width="25" height="25" src="/res/twitter.svg"></a>
   &nbsp;
@@ -6,17 +18,7 @@
   &nbsp;
   <a href="https://www.instagram.com/anshulkhilrani/"><img width="25" height="25" src="/res/instagram.svg"></a>
   &nbsp;
-  
-
 </p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FortMinor18&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FortMinor18&theme=radical&hide_border=true" />
-</p>
-
-I am a Student Developer that has been working in the field of Mobile Application Development using Flutter and Kotlin. For my current resume please visit
-<a href=="https://drive.google.com/file/d/1Nh4bz4OZKqd9EhgZStFlq4illIpPK9NA/view?usp=sharing"><img width="25" height="25" src="res/notepad.svg">
 
 
 <!--
