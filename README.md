@@ -8,15 +8,15 @@
 </p>
 
 <p>I am a Student Developer that has been working in the field of Mobile Application Development using Flutter and Kotlin. For my current resume please visit</p>
-<p><a href=="https://drive.google.com/file/d/1Nh4bz4OZKqd9EhgZStFlq4illIpPK9NA/view?usp=sharing"><img width="25" height="25" src="res/notepad.svg"></a></p>
+<p><a href=="https://drive.google.com/file/d/1Nh4bz4OZKqd9EhgZStFlq4illIpPK9NA/view?usp=sharing"><img width="25" height="25" src="res/notepad.png"></a></p>
 
 You can contact me on -
 <p>
-  <a href="https://twitter.com/f0rt18"><img width="25" height="25" src="/res/twitter.svg"></a>
+  <a href="https://twitter.com/f0rt18"><img width="25" height="25" src="/res/twitter.png"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/anshulkhilrani/"><img width="25" height="25" src="/res/linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/anshulkhilrani/"><img width="25" height="25" src="/res/linkedin.png"></a>
   &nbsp;
-  <a href="https://www.instagram.com/anshulkhilrani/"><img width="25" height="25" src="/res/instagram.svg"></a>
+  <a href="https://www.instagram.com/anshulkhilrani/"><img width="25" height="25" src="/res/instagram.png"></a>
   &nbsp;
 </p>
 
