@@ -8,7 +8,7 @@
 </p>
 
 <p>I am a Student Developer that has been working in the field of Mobile Application Development using Flutter and Kotlin. For my current resume please visit</p>
-<p><a href=="https://drive.google.com/file/d/1Nh4bz4OZKqd9EhgZStFlq4illIpPK9NA/view?usp=sharing"><img width="25" height="25" src="res/notepad.png"></a></p>
+<p><a href=="https://drive.google.com/file/d/1Nh4bz4OZKqd9EhgZStFlq4illIpPK9NA/view?usp=sharing"><img width="25" height="25" src="res/notes.png"></a></p>
 
 You can contact me on -
 <p>
