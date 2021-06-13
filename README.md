@@ -7,7 +7,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FortMinor18&theme=radical&hide_border=true" />
 </p>
 
-<p>I am a Student Developer that has been working in the field of Mobile Application Development using Flutter and Kotlin. For my current resume please visit</p>
+<p>I am a Student Developer that has been working in the field of Mobile Application Development using Flutter and Kotlin. Mostly just messing around with IPs.</p>
 
 You can contact me on -
 <p>
