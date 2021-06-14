@@ -9,6 +9,8 @@
 
 <p>I am a Student Developer that has been working in the field of Mobile Application Development using Flutter and Kotlin. Mostly just messing around with IPs.</p>
 
+<p><Currently ranked in the Top 6% worldwide on TryHackMe></p>
+
 You can contact me on -
 <p>
   <a href="https://twitter.com/f0rt18"><img width="25" height="25" src="/res/twitter.png"></a>
