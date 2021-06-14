@@ -11,7 +11,7 @@
 
 <p><Currently ranked in the Top 6% worldwide on TryHackMe></p>
 
-You can contact me on -
+Social Handles -
 <p>
   <a href="https://twitter.com/f0rt18"><img width="25" height="25" src="/res/twitter.png"></a>
   &nbsp;
