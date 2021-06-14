@@ -19,7 +19,7 @@ You can contact me on -
   &nbsp;
   <a href="https://www.instagram.com/anshulkhilrani/"><img width="25" height="25" src="/res/instagram.png"></a>
   &nbsp;
-  <a href="https://tryhackme.com/p/f0rt18"><img width="25" height="25" src="/res/THMlogo.png"></a>
+  <a href="https://tryhackme.com/p/f0rt18"><img width="50" height="25" src="/res/THMlogo.png"></a>
   &nbsp;
 </p>
 
