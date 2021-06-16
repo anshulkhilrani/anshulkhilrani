@@ -7,7 +7,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshulkhilrani&theme=radical&hide_border=true" />
 </p>
 
-<p>I am a Student Developer that has been working in the field of Mobile Application Development using Flutter and Kotlin. Mostly just messing around with IPs.</p>
+<p>I am a Student Developer that has been working in the field of Mobile Application Development using Flutter and Kotlin. Currently trying my hand at Pentesting.</p>
 
 <p><Currently ranked in the Top 6% worldwide on TryHackMe></p>
  <p><img src="/res/f0rt18.png"></p>
@@ -23,19 +23,3 @@ Social Handles -
   <a href="https://tryhackme.com/p/f0rt18"><img width="50" height="25" src="/res/THMlogo.png"></a>
   &nbsp;
 </p>
-
-
-<!--
-**FortMinor18/FortMinor18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
