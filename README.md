@@ -9,9 +9,6 @@
 
 <p>I am a Student Developer that has been working in the field of Mobile Application Development using Flutter and Kotlin. Currently trying my hand at Pentesting.</p>
 
-<p><Currently ranked in the Top 6% worldwide on TryHackMe></p>
- <p><img src="/res/f0rt18.png"></p>
-
 Social Handles -
 <p>
   <a href="https://twitter.com/f0rt18"><img width="25" height="25" src="/res/twitter.png"></a>
