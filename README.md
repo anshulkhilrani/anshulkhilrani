@@ -7,7 +7,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshulkhilrani&theme=radical&hide_border=true" />
 </p>
 
-<p>I am a Student Developer that has been working in the field of Mobile Application Development using Flutter and Kotlin. Currently trying my hand at Pentesting.</p>
+<p>I am a Student Developer that has been working in the field of Mobile Application Development using Flutter and Kotlin. Currently trying my hand at Product Management.</p>
 
 Social Handles -
 <p>
