@@ -7,7 +7,8 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshulkhilrani&theme=radical&hide_border=true" />
 </p>
 
-<p>I am a Student Developer that has been working in the field of Mobile Application Development using Flutter and Kotlin. Currently trying my hand at Product Management.</p>
+<p>CEO's Office at Aurionpro.
+Working towards what Agentic Development looks like for regulated environments. Connect with me if you have processes you would like to introduce to me. Always looking for the next leap in SDLC></p>
 
 Social Handles -
 <p>
